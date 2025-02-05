@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>INFJ 5w4, Computer Engineering Undergraduate
+<br>INFJ 5w4, Computer Engineering Undergraduate. I have fair knowledge on C, C++ and I am learning other coding languages as well.
 
 
 # 💻 Tech Stack:
